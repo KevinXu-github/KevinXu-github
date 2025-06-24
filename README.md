@@ -3,7 +3,6 @@
 
 I'm a Computer Science graduate from UC Santa Cruz specializing in machine learning and full-stack development. I enjoy building practical applications from the ground up, and my recent work includes developing predictive models and AI-powered web apps.
 
-I am currently seeking a Software Engineer role where I can apply my skills in Python, JavaScript, and machine learning to build impactful products.
 
 ---
 
