@@ -1,9 +1,9 @@
 <!-- Introduction -->
 ### Hi, I'm Kevin 👋
 
-I'm a Computer Science graduate from UC Santa Cruz with a passion for building intelligent applications. My focus is on the intersection of machine learning and full-stack development. I believe in a "builder's mindset"—the idea that the best way to learn is by creating real-world, impactful projects.
+I'm a Computer Science graduate from UC Santa Cruz specializing in machine learning and full-stack development. I enjoy building practical applications from the ground up, and my recent work includes developing predictive models and AI-powered web apps.
 
-After graduating, I took a job to support myself while I dedicated my off-hours to a strategic building phase: acquiring advanced skills and constructing a portfolio that demonstrates my commitment to a career in tech.
+I am currently seeking a Software Engineer role where I can apply my skills in Python, JavaScript, and machine learning to build impactful products.
 
 ---
 
@@ -12,11 +12,11 @@ After graduating, I took a job to support myself while I dedicated my off-hours 
 
 Here are a few of the projects I've built.
 
-| Project | Description | Live Demo / Repo |
-| :--- | :--- | :--- |
-| **Vivian AI Chatbot** | A full-stack AI chatbot application using the OpenAI API to simulate natural, intelligent conversations. | [Live Demo](https://your-chatbot-url.com) \| [Repository](https://github.com/KevinXu-github/vivian-ai-chatbot) |
-| **NBA Game Predictor** | A machine learning model that predicts NBA game outcomes with 68% accuracy, built using Python, Pandas, and Scikit-learn. | [Repository](https://github.com/KevinXu-github/nba-prediction) |
-| **Stock Prediction** | A Python application that uses a K-Nearest Neighbor algorithm to predict stock price movements based on historical data. | [Repository](https://github.com/KevinXu-github/StockPrediction) |
+| Project                                                              | Description                                                                                                                   | Live Demo / Repo                                                                                             |
+| :------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- |
+| **Vivian AI Chatbot** | A full-stack AI chatbot application using the OpenAI API to simulate natural, intelligent conversations.                            | [Live Demo](https://your-chatbot-url.com) \| [Repository](https://github.com/KevinXu-github/vivian-ai-chatbot) |
+| **NBA Game Predictor** | A machine learning model that predicts NBA game outcomes with 68% accuracy, built using Python, Pandas, and Scikit-learn.      | [Repository](https://github.com/KevinXu-github/nba-prediction)                                               |
+| **Stock Prediction** | A Python application that uses a K-Nearest Neighbor algorithm to predict stock price movements based on historical data.         | [Repository](https://github.com/KevinXu-github/StockPrediction)                                              |
 
 ---
 
